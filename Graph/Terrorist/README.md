@@ -46,4 +46,6 @@ Sample Output 0
 1
 0
 Explanation 0
-https://s3.amazonaws.com/hr-assets/0/1664220391-a7da5ad413-3320212a9093132a80105bf02feeb195.png 
+![image](https://user-images.githubusercontent.com/66742842/194775915-6cc5bbdb-9d85-4d5b-93b0-175c107a0873.png)
+
+
