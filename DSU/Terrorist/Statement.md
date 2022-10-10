@@ -1,4 +1,4 @@
-https://www.hackerrank.com/contests/phonepe-oct-2022-assessment-2/challenges/terrorist/problem 
+
 
 There are N cities (1,2,…..N) and M roads and the cities are connected to other cities by those roads. Terrorists have planted bombs in every city. Each bomb will explode one after the other. First bomb in city1 will explode, then city2 and so on.
 Each explosion will destroy the city and the roads which are connected to it.
