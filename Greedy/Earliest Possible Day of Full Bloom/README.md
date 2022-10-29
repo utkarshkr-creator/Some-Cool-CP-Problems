@@ -46,3 +46,7 @@ Constraints:
 n == plantTime.length == growTime.length
 1 <= n <= 105
 1 <= plantTime[i], growTime[i] <= 104
+
+
+
+Problem statement Link: https://leetcode.com/problems/earliest-possible-day-of-full-bloom/description/ 
